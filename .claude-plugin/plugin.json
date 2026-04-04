@@ -1,0 +1,9 @@
+{
+  "name": "gl",
+  "description": "AI-assisted SDLC: definition, architecture, planning, implementation, QA",
+  "version": "0.1.0",
+  "author": {
+    "name": "Vladimir Kroz"
+  },
+  "repository": "https://github.com/vkroz/GearLoop"
+}
